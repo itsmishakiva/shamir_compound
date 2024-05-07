@@ -1,0 +1,8 @@
+# ninja log v5
+575	608	1713113776113380781	lab_3	d0122a79ec0f84d4
+6	727	1712922947842659413	CMakeFiles/lab_3.dir/shamir_compound.cpp.o	cbb7c4e2c5894e11
+6	743	1712922947858617076	CMakeFiles/lab_3.dir/shamir_separation.cpp.o	3f913d77bae30820
+6	575	1713113776077754766	CMakeFiles/lab_3.dir/main.cpp.o	2f660c5ec315c7cd
+6	674	1712923041708273235	CMakeFiles/lab_3.dir/big_math_functions.cpp.o	831399acad426850
+9	1139	1712794114502993869	CMakeFiles/lab_3.dir/random_generator.cpp.o	5aad6cd22cb60886
+10	1034	1712794114395163645	CMakeFiles/lab_3.dir/secret_part.cpp.o	8aaeb3e85b3d0ed8
